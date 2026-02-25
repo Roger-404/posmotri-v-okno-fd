@@ -1,1 +1,1 @@
-# [Готовый проект](https://github.com/Roger-404/posmotri-v-okno-fd)
+https://github.com/Roger-404/posmotri-v-okno-fd
